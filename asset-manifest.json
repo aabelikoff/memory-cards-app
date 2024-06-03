@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/memory-cards-app/static/css/main.f29f153d.css",
-    "main.js": "/memory-cards-app/static/js/main.397db69a.js",
+    "main.js": "/memory-cards-app/static/js/main.9d11f703.js",
     "static/js/787.d6a8b40f.chunk.js": "/memory-cards-app/static/js/787.d6a8b40f.chunk.js",
     "static/media/minion15-removebg-preview.png": "/memory-cards-app/static/media/minion15-removebg-preview.01b2867138521e373065.png",
     "static/media/minion3-removebg-preview.png": "/memory-cards-app/static/media/minion3-removebg-preview.3a0a5981627cbd5310a1.png",
@@ -69,11 +69,11 @@
     "static/media/fail-short-5.mp3": "/memory-cards-app/static/media/fail-short-5.e8fdef5d363c018416c3.mp3",
     "index.html": "/memory-cards-app/index.html",
     "main.f29f153d.css.map": "/memory-cards-app/static/css/main.f29f153d.css.map",
-    "main.397db69a.js.map": "/memory-cards-app/static/js/main.397db69a.js.map",
+    "main.9d11f703.js.map": "/memory-cards-app/static/js/main.9d11f703.js.map",
     "787.d6a8b40f.chunk.js.map": "/memory-cards-app/static/js/787.d6a8b40f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f29f153d.css",
-    "static/js/main.397db69a.js"
+    "static/js/main.9d11f703.js"
   ]
 }
